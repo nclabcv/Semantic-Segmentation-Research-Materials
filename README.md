@@ -7,7 +7,7 @@ Here are some valuable papers, websites or articles about semantic image segment
 - [x] Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization, ICCV 2017 [[paper](https://arxiv.org/pdf/1610.02391.pdf)][[code](https://github.com/ramprs/grad-cam)]
 
 ## Weakly Supervised Semantic Segmentation Methods
-- [x] Decoupled Spatial Neural Attention for Weakly Supervised Semantic Segmentation, CVPR 2018 [[paper](https://arxiv.org/pdf/1803.02563.pdf)][[code]]
+- [x] Decoupled Spatial Neural Attention for Weakly Supervised Semantic Segmentation, CVPR 2018 [[paper](https://arxiv.org/pdf/1803.02563.pdf)][code]
 - [x] Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation, CVPR 2018 [[paper](https://arxiv.org/pdf/1803.10464.pdf)][[code](https://github.com/jiwoon-ahn/psa)]
 - [x] Weakly-Supervised Semantic Segmentation by Iteratively Mining Common Object Features, CVPR 2018 [[paper](https://arxiv.org/pdf/1806.04659)][code]
 
