@@ -10,6 +10,7 @@ Here are some valuable papers, websites or articles about semantic image segment
 - [x] Decoupled Spatial Neural Attention for Weakly Supervised Semantic Segmentation, CVPR 2018 [[paper](https://arxiv.org/pdf/1803.02563.pdf)][code]
 - [x] Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation, CVPR 2018 [[paper](https://arxiv.org/pdf/1803.10464.pdf)][[code](https://github.com/jiwoon-ahn/psa)]
 - [x] Weakly-Supervised Semantic Segmentation by Iteratively Mining Common Object Features, CVPR 2018 [[paper](https://arxiv.org/pdf/1806.04659)][code]
+- [x] Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing, CVPR 2018 [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf)][[code](https://github.com/speedinghzl/DSRG)]
 
 ## Visual-Attention-Model Based Methods
 - [x] Co-attention CNNs for Unsupervised Object Co-segmentation, IJCAI 2018 [[paper](https://www.ijcai.org/proceedings/2018/0104.pdf)][code]
