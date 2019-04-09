@@ -29,3 +29,6 @@ Here are some valuable papers, websites or articles about semantic image segment
 
 ## Saliency Detection Methods
 - [x] Salient object detection: A discriminative regional feature integration approach, CVPR 2013 [[paper](https://arxiv.org/pdf/1410.5926.pdf)][[code](https://github.com/playerkk/drfi_matlab)]
+
+## Attention Mechanism
+- [x] Attention Is All You Need [[paper](https://arxiv.org/pdf/1706.03762.pdf)][[code](https://github.com/tensorflow/tensor2tensor)]
