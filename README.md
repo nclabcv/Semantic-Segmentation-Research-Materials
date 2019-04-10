@@ -28,6 +28,7 @@ using Stochastic Inference, CVPR 2019 [[paper](https://arxiv.org/pdf/1902.10421.
 - [x] Learn To Pay Attention, ICLR 2018 [[paper](https://arxiv.org/pdf/1804.02391)][[code](https://github.com/SaoYan/LearnToPayAttention)]
 - [x] Squeeze-and-Excitation Networks, CVPR 2018 [[paper](https://arxiv.org/pdf/1709.01507)][[code](https://github.com/hujie-frank/SENet)]
 - [x] Gather-Excite: Exploiting Feature Context in Convolutional Neural Networks, NeurIPS 2018 [[paper](https://arxiv.org/pdf/1810.12348)][[code](https://github.com/hujie-frank/GENet)]
+- [x] Dual Attention Network for Scene Segmentation, CVPR 2019 [[paper](https://arxiv.org/pdf/1809.02983.pdf)][[code](https://github.com/junfu1115/DANet)]
 
 ## Saliency Detection Methods
 - [x] Salient object detection: A discriminative regional feature integration approach, CVPR 2013 [[paper](https://arxiv.org/pdf/1410.5926.pdf)][[code](https://github.com/playerkk/drfi_matlab)]
