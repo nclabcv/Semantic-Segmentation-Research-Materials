@@ -22,6 +22,7 @@ Here are some valuable papers, websites or articles about semantic image segment
 using Stochastic Inference, CVPR 2019 [[paper](https://arxiv.org/pdf/1902.10421.pdf)][code]
 
 ## Visual-Attention-Model Based Methods
+- [x] Weakly Supervised Semantic Segmentation Based on Web Image Co-segmentation, BMVC 2017 [[paper](https://arxiv.org/pdf/1705.09052.pdf)][[code](https://github.com/ascust/wsscoseg)]
 - [x] Co-attention CNNs for Unsupervised Object Co-segmentation, IJCAI 2018 [[paper](https://www.ijcai.org/proceedings/2018/0104.pdf)][code]
 - [x] Tell Me Where to Look: Guided Attention Inference Network, CVPR 2018 [[paper](https://arxiv.org/pdf/1802.10171.pdf)][[code](https://github.com/alokwhitewolf/Guided-Attention-Inference-Network)]
 - [x] CBAM: Convolutional Block Attention Module, ECCV 2018 [[paper](https://arxiv.org/pdf/1807.06521)][[code](https://github.com/Jongchan/attention-module)]
