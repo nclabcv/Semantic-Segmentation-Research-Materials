@@ -7,6 +7,7 @@ Here are some valuable papers, websites or articles about semantic image segment
 - [Embedding Projector: Visualization of High Dimensional Data](http://projector.tensorflow.org/)
 - [Feature Visualization](https://distill.pub/2017/feature-visualization/)
 - [Deep Learning Model Zoo](https://modelzoo.co/)
+- [Convolution Visualizer](https://ezyang.github.io/convolution-visualizer/index.html)
 
 ## Class Activation Mapping Methods
 - [x] Learning Deep Features for Discriminative Localization, CVPR 2016 [[paper](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)][[code](https://github.com/metalbubble/CAM)]
